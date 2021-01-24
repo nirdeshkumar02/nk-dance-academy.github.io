@@ -1,0 +1,16 @@
+{
+  "name": "nirdesh-dance-academy",
+  "version": "1.0.0",
+  "description": "This is a website for a popular Dance Academy.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nirdesh Kumar Saini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "pug": "^3.0.0"
+  }
+}
